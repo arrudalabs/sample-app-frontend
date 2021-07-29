@@ -1,5 +1,7 @@
 # SampleAppFrontend
 
+[![build status](https://github.com/arrudalabs/sample-app-frontend/workflows/Build/badge.svg)](https://github.com/arrudalabs/sample-app-frontend/actions)
+
 ** This project is for testing purposes: testing Heroku deployment ** 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
