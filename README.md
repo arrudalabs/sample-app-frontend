@@ -1,4 +1,4 @@
-# SampleAppFrontend - <a href="https://arrudalabs.github.io/sample-app-frontend/" target="_blank">Click here to open</a>
+# SampleAppFrontend - [Click here to open](https://arrudalabs.github.io/sample-app-frontend/){:target="_blank"}
 
 [![CI](https://github.com/arrudalabs/sample-app-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/arrudalabs/sample-app-frontend/actions/workflows/ci.yml)
 [![Build and Deploy](https://github.com/arrudalabs/sample-app-frontend/actions/workflows/github_pages.yml/badge.svg)](https://github.com/arrudalabs/sample-app-frontend/actions/workflows/github_pages.yml)
