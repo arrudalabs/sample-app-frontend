@@ -5,7 +5,8 @@
 [![Build and Deploy](https://github.com/arrudalabs/sample-app-frontend/actions/workflows/github_pages.yml/badge.svg)](https://github.com/arrudalabs/sample-app-frontend/actions/workflows/github_pages.yml)
 
 
-** This project is for testing purposes: testing Heroku deployment ** 
+** This project is for testing purposes: testing Heroku deployment, but I think that the best approach is to use Github Pages to hosting this project** 
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
