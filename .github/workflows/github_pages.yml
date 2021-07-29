@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Build and Deploy
+name: Build and Deploy to Github Pages
 
 # Controls when the workflow will run
 on:
@@ -20,7 +20,6 @@ jobs:
     strategy:
           matrix:
             node-version: [14.x]
-            github_access_token: ['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']
             base_href: [sample-app-frontend]
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -33,7 +32,7 @@ jobs:
         uses: AhsanAyaz/angular-deploy-gh-pages-actions@v1.3.2
         with:
           # Github access token token used to deploy on gh_pages. You can find it on Github.
-          github_access_token: ${{ matrix.github_access_token }}
+          github_access_token: ${{ secrets.ACCESS_TOKEN }}
           # The directory of the angular project, in which all the commands will run
           # angular_project_dir: # optional, default is ./
           # Build configuration for the angular app
