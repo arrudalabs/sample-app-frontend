@@ -1,6 +1,6 @@
 # SampleAppFrontend
 
-[![build status](https://github.com/arrudalabs/sample-app-frontend/workflows/Build/badge.svg)](https://github.com/arrudalabs/sample-app-frontend/actions)
+[![CI](https://github.com/arrudalabs/sample-app-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/arrudalabs/sample-app-frontend/actions/workflows/ci.yml)
 
 ** This project is for testing purposes: testing Heroku deployment ** 
 
